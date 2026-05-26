@@ -11,7 +11,6 @@ class Queen {
         ||
             move.sourceX == move.destinationX || move.sourceY == move.destinationY
         ) return true;
-        // dokoncz implementacje
         return false;
     }
 }
