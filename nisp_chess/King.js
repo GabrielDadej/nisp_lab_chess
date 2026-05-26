@@ -1,4 +1,3 @@
-// Klasa reprezentująca króla
 class King {
     constructor() {
         this.type = "KING";
